@@ -1,0 +1,10 @@
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\CastleWindserSample.exe.config
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\CastleWindserSample.exe
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\CastleWindserSample.pdb
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\Castle.Core.dll
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\Castle.Windsor.dll
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\Castle.Core.xml
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\bin\Debug\Castle.Windsor.xml
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\obj\Debug\CastleWindserSample.csprojResolveAssemblyReference.cache
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\obj\Debug\CastleWindserSample.exe
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\UnitySample\CastleWindserSample\obj\Debug\CastleWindserSample.pdb

@@ -1,0 +1,12 @@
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\UnitySample.exe.config
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\UnitySample.exe
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\UnitySample.pdb
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\Unity.Abstractions.dll
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\Unity.Container.dll
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\Unity.Abstractions.pdb
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\bin\Debug\Unity.Container.pdb
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\obj\Debug\UnitySample.csprojResolveAssemblyReference.cache
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\obj\Debug\UnitySample.exe
+c:\users\tohid\documents\visual studio 2017\Projects\UnitySample\UnitySample\obj\Debug\UnitySample.pdb
