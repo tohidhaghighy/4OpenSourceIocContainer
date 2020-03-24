@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitySample", "UnitySample\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleWindserSample", "CastleWindserSample\CastleWindserSample.csproj", "{D14664CA-29C2-4EB1-9E2B-8F28F97F637E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapSample", "StructureMapSample\StructureMapSample.csproj", "{694AF153-00F5-4480-AE38-ADD026042074}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D14664CA-29C2-4EB1-9E2B-8F28F97F637E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D14664CA-29C2-4EB1-9E2B-8F28F97F637E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D14664CA-29C2-4EB1-9E2B-8F28F97F637E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694AF153-00F5-4480-AE38-ADD026042074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694AF153-00F5-4480-AE38-ADD026042074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694AF153-00F5-4480-AE38-ADD026042074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694AF153-00F5-4480-AE38-ADD026042074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
